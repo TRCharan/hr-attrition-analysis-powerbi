@@ -115,12 +115,10 @@ The dataset was cleaned and prepared using Power Query with the following steps:
 ```text
 .
 ├── HR_Analytics_Dashboard.pbix
-├── Data/
-│   └── HR_Analytics.csv
-├── Screenshots/
-│   ├── hr-dashboard-overview.png
-│   ├── attrition-by-dept.png
-│   └── attrition-by-salary(upto 5k).png
+├── HR_Analytics.csv
+├── hr-dashboard-overview.png
+├── attrition-by-dept.png
+├── attrition-by-salary(upto 5k).png
 ├── README.md
 ```
 
